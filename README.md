@@ -1,8 +1,6 @@
 # 🌟 Ruslan | QA Engineer & Bot Developer
 
-🕒 **Current Time:** ![Local Time](https://img.shields.io/badge/dynamic/json?color=blueviolet&label=%20&query=date_time&url=https%3A%2F%2Fworldtimeapi.org%2Fapi%2Fip)
-
-🚀 **QA Engineer | Telegram Bot Developer**  
+🕒 **Current Time:** ![Updating Time](https://img.shields.io/badge/обновляется_каждый_день-UTC+3-blueviolet)
 
 ---
 
