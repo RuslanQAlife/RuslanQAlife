@@ -38,7 +38,7 @@ Telegram-бот для мониторинга нарушений безопас�
 
 ---
 
-2. **🔄 Telegram-Bot-for-Violation-Management** ([GitHub]https://github.com/RuslanQAlife/Telegram-Bot-for-Violation-Management))  
+2. **🔄 Telegram-Bot-for-Violation-Management** ([GitHub](https://github.com/RuslanQAlife/Telegram-Bot-for-Violation-Management))  
 - Обработал **1200+ нарушений** с автоматической классификацией
 - Снизил время реакции на инциденты **с 1 часов до 5-10 минут**
 - Уменьшил количество нарушений на **35%** за 3 месяца
