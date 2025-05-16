@@ -14,6 +14,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+
 ---
 
 ### 🔥 Мои проекты:
@@ -34,10 +35,6 @@
 
 ---
   
-Telegram-бот для мониторинга нарушений безопасности с возможностью фотофиксации, аналитикой KPI и автоматическими отчетами.
-
----
-
 2. **🔄 Telegram-Bot-for-Violation-Management** ([GitHub](https://github.com/RuslanQAlife/Telegram-Bot-for-Violation-Management))  
   **Система мониторинга нарушений безопасности с фотофиксацией**
   *Бот для контроля производственной безопасности с аналитикой KPI*
