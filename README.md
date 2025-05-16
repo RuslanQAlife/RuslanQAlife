@@ -1,5 +1,7 @@
 # Привет, я Ruslan! 👋
 
+🕒 **Current Time:** ![Local Time](https://img.shields.io/badge/dynamic/json?color=blueviolet&label=%20&query=date_time&url=https%3A%2F%2Fworldtimeapi.org%2Fapi%2Fip)
+
 🚀 **QA Engineer | Telegram Bot Developer**  
 
 ---
