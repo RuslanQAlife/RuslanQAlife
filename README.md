@@ -5,9 +5,15 @@
 ---
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=QA+Engineer;Telegram+Bot+Developer;Python+Enthusiast)
 
-### 🛠 Технологии:
-Python | Telegram API | MySQL | PostgreSQL | aiogram  
-Docker | Selenium | Git | PyTest | Locust
+### 🛠 Технологии и инструменты:
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Telegram API](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![aiogram](https://img.shields.io/badge/-aiogram-259B24?logo=telegram&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ---
 
 ### 🏆 Достижения в разработке ботов:
@@ -19,15 +25,11 @@ Docker | Selenium | Git | PyTest | Locust
 ---
 
 ### 🔥 Мои проекты:
-1. **Employee Tracking Bot** ([GitHub](ссылка))  
+1. **Employee Tracking Bot** ([GitHub]([ссылка](https://github.com/RuslanQAlife/Telegram-bot-for-monitoring-work-time)))  
    - Бот для учета рабочего времени сотрудников
-   - Возможности: контроль смен, обедов, эвакуаций
-   - Технологии: Python, aiogram, PostgreSQL
+   - Возможности: контроль смен, обедов, эвакуаций и.тд.
+   - Технологии: Python, aiogram, MySQL
 
-2. **QA Automation Framework** ([GitHub](ссылка))  
-   - Кастомный фреймворк для автоматизации тестирования
-   - Поддержка Selenium, API тестирования
-   - Интеграция с Allure отчетностью
 
 ---
 
