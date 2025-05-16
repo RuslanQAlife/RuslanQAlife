@@ -3,6 +3,7 @@
 🚀 **QA Engineer | Telegram Bot Developer**  
 
 ---
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=QA+Engineer;Telegram+Bot+Developer;Python+Enthusiast)
 
 ### 🛠 Технологии и инструменты:
