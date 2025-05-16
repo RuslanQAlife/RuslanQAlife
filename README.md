@@ -5,22 +5,16 @@
 ---
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=QA+Engineer;Telegram+Bot+Developer;Python+Enthusiast)
 
-### 🛠 Технологии и инструменты:
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Telegram API](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-
+### 🛠 Технологии:
+Python | Telegram API | MySQL | PostgreSQL | aiogram  
+Docker | Selenium | Git | PyTest | Locust
 ---
 
 ### 🏆 Достижения в разработке ботов:
 - Создал высоконагруженного бота для учета рабочего времени (>500 пользователей)
 - Разработал систему автоматических напоминаний и уведомлений
 - Реализовал сложную систему статусов с аналитикой времени
-- Оптимизировал работу с БД (снижение нагрузки на 40%)
-- Автоматизировал отчетность для администраторов
+
 
 ---
 
