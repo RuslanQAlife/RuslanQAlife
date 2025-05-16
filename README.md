@@ -25,7 +25,7 @@
 ---
 
 ### 🔥 Мои проекты:
-1. **Employee Tracking Bot** ([GitHub]([ссылка](https://github.com/RuslanQAlife/Telegram-bot-for-monitoring-work-time)))  
+1. **Employee Tracking Bot** ([GitHub](https://github.com/RuslanQAlife/Telegram-bot-for-monitoring-work-time)  
    - Бот для учета рабочего времени сотрудников
    - Возможности: контроль смен, обедов, эвакуаций и.тд.
    - Технологии: Python, aiogram, MySQL
