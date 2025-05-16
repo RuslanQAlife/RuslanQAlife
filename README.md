@@ -61,8 +61,6 @@
 
 ---
 
-### 📈 Статистика
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RuslanQAlife&show_icons=true&theme=radical)
 ### 📫 Как связаться:
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/ваш-ник)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:ваш-email)
