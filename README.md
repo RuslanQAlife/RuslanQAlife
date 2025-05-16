@@ -1,4 +1,4 @@
-# Привет, я [Ruslan]! 👋
+# Привет, я Ruslan! 👋
 
 🚀 **QA Engineer | Telegram Bot Developer**  
 
@@ -31,7 +31,9 @@
 
    ⚙️ **Технологический стек:**
    Python, aiogram, MySQL
-   
+
+---
+  
 Telegram-бот для мониторинга нарушений безопасности с возможностью фотофиксации, аналитикой KPI и автоматическими отчетами.
 
 ---
@@ -42,16 +44,8 @@ Telegram-бот для мониторинга нарушений безопас�
 - Уменьшил количество нарушений на **35%** за 3 месяца
 - Реализовал **"умные" отчеты** с фильтрацией по 10+ параметрам
 
----
-
-### ⚙️ Технологический стек
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/aiogram-259B24?logo=telegram&logoColor=white" alt="aiogram">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" alt="OpenCV">
-  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" alt="Redis">
-</p>
+  ⚙️ **Технологический стек:**
+   Python, aiogram, MySQL
 
 ---
 
