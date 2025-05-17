@@ -2,8 +2,6 @@
 
 ![Weather](https://img.shields.io/badge/🌈_Weather-☀️-gold)
 
-
-
 ---
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=QA+Engineer;Telegram+Bot+Developer;Python+Enthusiast)
