@@ -1,6 +1,6 @@
 # 🌟 Ruslan | QA Engineer & Bot Developer
 
-🕒 **TIME:** ![Time](https://img.shields.io/badge/dynamic/json?color=blueviolet&label=%20&query=time&url=https%3A%2F%2Ftimeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DEurope%2FMoscow)
+🕒 **TIME:** ![Time](https://img.shields.io/badge/🕒_TIME-{HH:MM:SS}-blue)
 
 ---
 
