@@ -1,8 +1,8 @@
 # 🌟 Ruslan | QA Engineer & Bot Developer
 
-![Weather](https://img.shields.io/badge/🌤️_Weather-25°C_Sunny-blue)
+![Weather](https://img.shields.io/badge/🌈_Weather-☀️-gold)
 
-![Chemical Lab](https://raw.githubusercontent.com/yourname/yourrepo/main/lab.svg)
+
 
 ---
 
