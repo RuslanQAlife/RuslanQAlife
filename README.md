@@ -1,6 +1,9 @@
 # 🌟 Ruslan | QA Engineer & Bot Developer
 
-🕒 **TIME:** ![Time](https://img.shields.io/badge/dynamic/json?url=ВАШ_GOOGLE_SCRIPT_URL&label=🕒&query=$.time&color=blue)
+```python
+# ASCII-часы (обновляются через Actions)
+print("🕒 " + time.strftime("%H:%M:%S"))
+```
 
 ---
 
