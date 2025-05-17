@@ -1,6 +1,6 @@
 # 🌟 Ruslan | QA Engineer & Bot Developer
 
-![Weather](https://img.shields.io/badge/🌈_Weather-☀️-gold)
+![Weather](https://img.shields.io/badge/🌈_Weather-☀️-gold)  ![Projects](https://img.shields.io/badge/✨_Running_Now-2_purple_purple)
 
 ---
 
