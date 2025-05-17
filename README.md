@@ -1,7 +1,6 @@
 # 🌟 Ruslan | QA Engineer & Bot Developer
 
-![Code Time](https://wakatime.com/badge/user/ваш_id.svg)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RuslanQAlife&show_icons=true)
+![Weather](https://img.shields.io/badge/🌤️_Weather-25°C_Sunny-blue)
 
 ---
 
