@@ -1,6 +1,6 @@
 # 🌟 Ruslan | QA Engineer & Bot Developer
 
-🕒 **TIME:** ![Time](https://img.shields.io/badge/🕒_TIME-{HH:MM:SS}-blue)
+🕒 **TIME:** ![Dynamic Time](https://dynamic-time-image-service.com?text=🕒_TIME:_{time})
 
 ---
 
