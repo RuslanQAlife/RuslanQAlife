@@ -2,6 +2,8 @@
 
 ![Weather](https://img.shields.io/badge/🌤️_Weather-25°C_Sunny-blue)
 
+[![Play Snake](https://raw.githubusercontent.com/yourname/yourrepo/output/github-contribution-grid-snake.svg)](https://github.com/RuslanQAlife)
+
 ---
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=QA+Engineer;Telegram+Bot+Developer;Python+Enthusiast)
