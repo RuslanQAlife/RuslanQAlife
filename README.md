@@ -80,24 +80,3 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:ваш-email)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/ваш-профиль)
 
-# <img src="https://em-content.zobj.net/source/microsoft-teams/363/rocket_1f680.png" width="28" /> Ruslan Sharshenbekov  
-#### Senior QA Automation Engineer | Telegram Bot Architect
-
-<div align="center">
-  
-```python
-class QAEngineer:
-    def __init__(self):
-        self.name = "Ruslan Sharshenbekov"
-        self.role = "Quality Assurance Specialist"
-        self.skills = {
-            'Languages': ['Python', 'SQL'],
-            'Automation': ['Selenium', 'Pytest', 'Playwright'],
-            'CI/CD': ['GitHub Actions', 'Docker'],
-            'Monitoring': ['Grafana', 'Sentry']
-        }
-</div>
-
-🛠️ Core Technical Competencies
-<table align="center"> <tr> <td align="center" width="96"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" alt="Python" /> <br>Python </td> <td align="center" width="96"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" alt="Docker" /> <br>Docker </td> <td align="center" width="96"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48" alt="K8s" /> <br>Kubernetes </td> <td align="center" width="96"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" alt="PostgreSQL" /> <br>PostgreSQL </td> </tr> <tr> <td align="center" width="96"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="48" alt="Selenium" /> <br>Selenium </td> <td align="center" width="96"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="48" alt="Pytest" /> <br>Pytest </td> <td align="center" width="96"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="48" alt="Grafana" /> <br>Grafana </td> <td align="center" width="96"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="48" alt="Ansible" /> <br>Ansible </td> </tr> </table>
-
