@@ -32,9 +32,9 @@ Junior QA Engineer
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
 
-### 📊 Гитхаб статистика:
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" alt="Ruslan's GitHub stats" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" alt="Ruslan's streak" /> |
-| ------------- | ------------- |
+### 🚀 Мои метрики:
+  
+[![Metrics](https://github.com/yourusername/yourusername/blob/main/github-metrics.svg)](https://github.com/yourusername/yourusername)
 
 ### 📫 Как связаться:
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/yourusername)
