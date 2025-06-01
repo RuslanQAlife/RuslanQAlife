@@ -35,7 +35,7 @@
    -  Централизованная панель управления для руководителей
 
    ⚙️ **Технологический стек:**  
-   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white), ![aiogram](https://img.shields.io/badge/-aiogram-259B24?logo=telegram&logoColor=white), ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![aiogram](https://img.shields.io/badge/-aiogram-259B24?logo=telegram&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 
    📌 **Ключевые результаты:**
    -  Снижение времени на учет рабочего времени на 65%
@@ -65,7 +65,7 @@
    -  Поиск и редактирование существующих записей
 
    ⚙️ **Технологический стек:**  
-   🐍 Python, 🤖 Python-telegram-bot, 🗃 MySQL
+   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Python-telegram-bot](https://img.shields.io/badge/-python--telegram--bot-3776AB?logo=telegram&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 
    📌 **Ключевые результаты:**
    -  Обработано **1200+ нарушений** с автоматической классификацией
