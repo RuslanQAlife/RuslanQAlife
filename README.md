@@ -35,7 +35,7 @@
    -  Централизованная панель управления для руководителей
 
    ⚙️ **Технологический стек:**  
-   🐍 Python, 🤖 aiogram, 🗃 MySQL
+   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white), ![aiogram](https://img.shields.io/badge/-aiogram-259B24?logo=telegram&logoColor=white), ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 
    📌 **Ключевые результаты:**
    -  Снижение времени на учет рабочего времени на 65%
