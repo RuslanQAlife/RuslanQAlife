@@ -1,6 +1,6 @@
 # 🌟 Ruslan | QA Engineer
 
-![Weather](https://img.shields.io/badge/🌈_Weather-☀️-gold)  ![Deployed](https://img.shields.io/badge/📡_Deployed-2_online-brightgreen)  ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet)
+![Weather](https://img.shields.io/badge/🌈_Weather-☀️-gold)  ![Deployed](https://img.shields.io/badge/📡_Deployed-2_online-brightgreen) 
 
 ---
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=QA+Engineer;Telegram+Bot+Developer;Python+Enthusiast;Automation+Lover)
