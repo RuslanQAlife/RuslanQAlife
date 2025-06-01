@@ -1,4 +1,4 @@
-# 🌟 Ruslan | QA Engineer & Bot Developer
+# 🌟 Ruslan | QA Engineer
 
 ![Weather](https://img.shields.io/badge/🌈_Weather-☀️-gold)  ![Deployed](https://img.shields.io/badge/📡_Deployed-2_online-brightgreen)  ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet)
 
