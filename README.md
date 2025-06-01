@@ -9,6 +9,8 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/RuslanQAlife)
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Python-telegram-bot](https://img.shields.io/badge/-python--telegram--bot-3776AB?logo=telegram&logoColor=white)
+![aiogram](https://img.shields.io/badge/-aiogram-259B24?logo=telegram)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
