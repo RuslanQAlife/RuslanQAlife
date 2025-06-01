@@ -2,7 +2,6 @@
 
 <div align="center">
   
-![Header](https://github.com/RuslanQAlife/RuslanQAlife/blob/main/assets/qa-engineer-banner.png)
 
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/yourusername)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:your.email@example.com)
