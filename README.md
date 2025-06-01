@@ -33,7 +33,7 @@ Junior QA Engineer
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
 
 ### 📈 Кодинг-активность:
-[![Ruslan's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=yourwakatimeusername&layout=compact&theme=radical)](https://wakatime.com/@yourwakatimeusername)
+[![Ruslan's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=RuslanQAlife&layout=compact&theme=radical)](https://wakatime.com/@yourwakatimeusername)
 
 ### 📫 Как связаться:
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/yourusername)
