@@ -16,7 +16,6 @@ Junior QA Engineer
 ### 🛠 Технологии и инструменты:
 #### 🐍 Языки программирования:
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
 
 #### 🤖 Бот-разработка:
 ![aiogram](https://img.shields.io/badge/-aiogram-259B24?logo=telegram&logoColor=white)
@@ -31,6 +30,7 @@ Junior QA Engineer
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
 
 ### 📈 Моя статистика:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=dark)](https://git.io/streak-stats)
