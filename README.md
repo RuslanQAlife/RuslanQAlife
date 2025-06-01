@@ -34,19 +34,19 @@
 | Курс | Организация | 
 |------|-------------|
 | QA Engineer | Яндекс Практикум | 
-| Backend-разработчик | Яндекс Практикум 
+| Python-разработчик | Яндекс Практикум 
 | SQL и анализ данных | Яндекс Практикум | 
 
 ## 🚀 Мои проекты
 
 ### Telegram Bot for Violation Management
-📌 Бот для управления нарушениями с возможностью отчетности  
-🔧 Технологии: Python, aiogram, PostgreSQL  
+📌 Бот для управления нарушениями.
+🔧 Технологии: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Python-telegram-bot](https://img.shields.io/badge/-python--telegram--bot-3776AB?logo=telegram&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql)
 [![GitHub](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/RuslanQAlife/Telegram-Bot-for-Violation-Management)
 
 ### Telegram bot for monitoring work time
 ⏱ Бот для учета рабочего времени с аналитикой  
-🔧 Технологии: Python, aiogram, SQLite  
+🔧 Технологии: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![aiogram](https://img.shields.io/badge/-aiogram-259B24?logo=telegram) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql)
 [![GitHub](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/RuslanQAlife/Telegram-bot-for-monitoring-work-time)
 
 
