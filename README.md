@@ -3,7 +3,6 @@
 ![Weather](https://img.shields.io/badge/🌈_Weather-☀️-gold)  ![Deployed](https://img.shields.io/badge/📡_Deployed-2_online-brightgreen)  ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet)
 
 ---
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=QA+Engineer;Telegram+Bot+Developer;Python+Enthusiast;Automation+Lover)
 ### 👨‍💻 Обо мне:
 Junior QA Engineer
