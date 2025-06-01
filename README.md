@@ -1,5 +1,7 @@
 # Ruslan QAlife | QA Engineer
 
+![QA Engineer Banner](https://github.com/RuslanQAlife/RuslanQAlife/blob/main/assets/qa-banner.png)
+
 <div align="center">
   
 
@@ -13,6 +15,7 @@
 ![aiogram](https://img.shields.io/badge/-aiogram-259B24?logo=telegram)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
 
@@ -26,10 +29,10 @@
 
 Стремлюсь развиваться в области QA, изучаю новые технологии и инструменты для повышения эффективности тестирования. Готов к интересным задачам и работе в команде!
 
-- 🔍 Специализация: функциональное, регрессионное и smoke-тестирование
-- 🤖 Разработка Telegram-ботов на Python (aiogram)
-- 🛠 Автоматизация тестирования (Selenium, PyTest)
-- 📊 Работа с базами данных и аналитика (SQL)
+- 🔍 Специализация: функциональное, нефункциональное, ручное и автоматизированное.
+- 🤖 Разработка Telegram-ботов 
+- 🛠 Автоматизация тестирования 
+- 📊 Работа с базами данных и аналитика
 
 ## 🎓 Образование и курсы
 
@@ -47,10 +50,9 @@
 [![GitHub](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/RuslanQAlife/Telegram-Bot-for-Violation-Management)
 
 ### Telegram bot for monitoring work time
-⏱ Бот для учета рабочего времени с аналитикой  
+⏱ Бот для учета рабочего времени.
 🔧 Технологии: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![aiogram](https://img.shields.io/badge/-aiogram-259B24?logo=telegram) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql)
 [![GitHub](https://img.shields.io/badge/-Repo-181717?logo=github)](https://github.com/RuslanQAlife/Telegram-bot-for-monitoring-work-time)
-
 
 
 
