@@ -32,9 +32,6 @@ Junior QA Engineer
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
 
-### 🎚️ Текущая активность:
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyid&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyid&redirect=true)
-
 ### 📫 Как связаться:
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/yourusername)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
