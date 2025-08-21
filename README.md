@@ -78,7 +78,7 @@
 - Проанализировал текущий workflow обработки заявок
 - Разработал модель данных и схему взаимодействия компонентов
 - Составил спецификацию API для интеграции с внешними системами
-- Подготовил документацию для разработчиков
+- Подготовил документацию для разработки
 
 **Технологии**: ![UML](https://img.shields.io/badge/-UML-5C6BC0) ![API](https://img.shields.io/badge/-API-FF6D00) ![SQL](https://img.shields.io/badge/-SQL-4479A1)
 
@@ -149,6 +149,7 @@
 **Стек и инструменты:** `Python` `aiogram` `SQL` `UML` `Требования` `Интервью`
 
 [![GitHub Repo](https://img.shields.io/badge/-Исходный%20код%20и%20описание-181717?logo=github)](https://github.com/RuslanQAlife/Telegram-bot-for-monitoring-work-time)
+
 
 
 
