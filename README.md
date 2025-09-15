@@ -1,4 +1,4 @@
-# Ruslan | Junior System Analyst
+# Ruslan | Junior Data Analyst
 
 <div align="center">
 
@@ -7,34 +7,29 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/RuslanQAlife)
 
-![Business Analysis](https://img.shields.io/badge/-Business%20Analysis-FF6B6B)
-![Process Modeling](https://img.shields.io/badge/-Process%20Modeling-4ECDC4)
-![Requirements](https://img.shields.io/badge/-Requirements-45B7D1)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![UML](https://img.shields.io/badge/-UML-5C6BC0)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
+![Visualization](https://img.shields.io/badge/-Visualization-FF6B6B)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
 
 </div>
 
 ## Обо мне
 
-Привет! Я начинающий системный аналитик с техническим бэкграундом в тестировании и разработке. Обладаю системным мышлением и стремлением к пониманию бизнес-процессов. Ищу возможность применять аналитические навыки для решения сложных задач и создания качественных IT-решений.
+Привет! Я начинающий аналитик данных с сильным стремлением к преобразованию сырых данных в понятные инсайты и actionable insights. Обладаю техническими навыками работы с SQL и Python, а также опытом полного цикла анализа: от сбора и очистки данных до визуализации и построения дашбордов.
 
-### Ключевые компетенции:
-- **Анализ требований**: Выявление, структурирование и формализация требований
-- **Проектная документация**: Составление спецификаций, пользовательских сценариев
-- **Процессный подход**: Анализ и оптимизация бизнес-процессов
-- **Технический бэкграунд**: Понимание жизненного цикла разработки ПО
-- **Коммуникация**: Взаимодействие между бизнес-заказчиками и командой разработки
+### 🛠️ Технический стек:
+- **Языки и БД:** SQL, Python
+- **Библиотеки Python:** Pandas, NumPy, Matplotlib, Seaborn, Requests
+- **Визуализация:** Power BI, Tableau (на уровне дашбордов)
+- **Инструменты:** Git, Jira, Postman
+- **Прочее:** Работа с API, ETL-процессы, статистика
 
-### Инструментарий:
-- **Анализ**: BPMN, UML, пользовательские истории, use case диаграммы
-- **Документирование**: Confluence, Notion, draw.io
-- **Управление задачами**: Jira, Trello
-- **Технические навыки**: SQL, Python, Postman (API testing)
-- **Прототипирование**: Figma, Balsamiq (базовый уровень)
+---
 
 ## Образование
 
@@ -149,6 +144,7 @@
 **Стек и инструменты:** `Python` `aiogram` `SQL` `UML` `Требования` `Интервью`
 
 [![GitHub Repo](https://img.shields.io/badge/-Исходный%20код%20и%20описание-181717?logo=github)](https://github.com/RuslanQAlife/Telegram-bot-for-monitoring-work-time)
+
 
 
 
