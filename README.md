@@ -16,9 +16,9 @@
 ## Технический стек
 
 - **Языки программирования и БД:** SQL, Python
-- **Библиотеки Python:** Pandas, NumPy, Matplotlib, Seaborn, Requests
+- **Библиотеки Python:** Pandas, NumPy
 - **Визуализация данных:** Power BI, Tableau
-- **Инструменты:** Git, Jira, Postman
+- **Инструменты:** Git, Jira, Postman, Excel
 - **Методологии:** BPMN, UML, Use Cases, проектирование API
 
 ## Проекты
@@ -82,6 +82,7 @@
 - **Telegram:** [@yourusername](https://t.me/yourusername)
 - **LinkedIn:** [yourusername](https://linkedin.com/in/yourusername)
 - **GitHub:** [RuslanQAlife](https://github.com/RuslanQAlife)
+
 
 
 
