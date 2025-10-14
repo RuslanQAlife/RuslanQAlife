@@ -78,10 +78,11 @@
 
 ## Контакты
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **Telegram:** [@yourusername](https://t.me/yourusername)
-- **LinkedIn:** [yourusername](https://linkedin.com/in/yourusername)
+- **Email:** [?](mailto:your.email@example.com)
+- **Telegram:** [?](https://t.me/yourusername)
+- **LinkedIn:** [?](https://linkedin.com/in/yourusername)
 - **GitHub:** [RuslanQAlife](https://github.com/RuslanQAlife)
+
 
 
 
